@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899493529387",
+    "project_id": "trabalhounifacear",
+    "storage_bucket": "trabalhounifacear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899493529387:android:046cd111755f2e590f276e",
+        "android_client_info": {
+          "package_name": "com.example.trabalhounifacear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899493529387-39gihl0fhumak6inu1vqajeq7lvs6uc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfyFWqAIJrSby2iKVVSYniEotF--S7t5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899493529387-39gihl0fhumak6inu1vqajeq7lvs6uc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
